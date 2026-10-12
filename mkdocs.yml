@@ -28,4 +28,4 @@ plugins:
 nav:
   - Accueil: index.md
   - Guide d'utilisation:
-    - Premier chapitre: sujet1.md
+    - Premier chapitre: GSIbook-test-BASE.md
