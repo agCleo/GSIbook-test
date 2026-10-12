@@ -6,7 +6,7 @@ La Central and Eastern European Online Library (CEEOL) est un entrepôt de publi
 ## DESCRIPTION DE L'INDEX
 | Element | Description |
 | :- | :- |
-| Nom | CEEOL (Bibliothèque en ligne d'Europe centrale et orientale) |
+| Nom | CEEOL (Bibliothèque en ligne d'Europe centrale et orientale) CHANGED |
 | Site web | https://www.ceeol.com/  |
 | Propriétaire | Central and Eastern European Online Library GmbH |
 | Type de propriétaire | Entreprise privée |
