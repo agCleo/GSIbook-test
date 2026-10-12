@@ -1,0 +1,31 @@
+theme:
+  name: material
+  language: en # Langue par défaut de l'interface graphique
+  palette:
+    primary: indigo
+    accent: indigo
+  features:
+    - navigation.tabs # Menu horizontal en haut pour les grands écrans
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
+  - i18n:
+      default_language: en
+      docs_structure: suffix  # Indique que vous utilisez .fr.md / .en.md
+      languages:
+        fr:
+          name: Français
+          build: true
+        en:
+          name: English
+          build: true
+
+# Définition du menu (la vue livre)
+# TRÈS IMPORTANT : Utilisez le nom générique .md (sans l'extension de langue)
+# Le plugin i18n associera automatiquement le bon fichier selon la langue.
+nav:
+  - Accueil: index.md
+  - Guide d'utilisation:
+    - Premier chapitre: sujet1.md
