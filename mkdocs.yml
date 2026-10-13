@@ -1,3 +1,7 @@
+site_name: GSIbook
+
+site_url: https://agCleo.github.io/GSIbook-test/
+
 theme:
   name: material
   language: en # Langue par défaut de l'interface graphique
