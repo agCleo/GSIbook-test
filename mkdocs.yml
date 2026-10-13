@@ -16,14 +16,14 @@ theme:
 plugins:
   - search
   - i18n:
-      default_language: en
-      docs_structure: suffix  # Indique que vous utilisez .fr.md / .en.md
+      docs_structure: suffix
       languages:
-        fr:
-          name: Français
-          build: true
-        en:
+        - locale: en
+          default: true
           name: English
+          build: true
+        - locale: fr
+          name: Français
           build: true
 
 # Définition du menu (la vue livre)
