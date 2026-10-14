@@ -6,12 +6,12 @@
   display: flex;
 }
 
-.edch-logo {
+.edch-block {
   max-width: 100px;
   padding: 1rem;
 }
 
-.oe-logo {
+.oe-block {
   max-width: 150px;
   padding: 1rem;
 }
