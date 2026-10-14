@@ -6,6 +6,7 @@ theme:
   name: material
   language: en # Langue par défaut de l'interface graphique
   logo: assets/EDCH-logo.png
+  favicon: assets/EDCH-logo.png
   palette:
     primary: indigo
     accent: indigo
