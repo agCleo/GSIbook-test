@@ -14,6 +14,7 @@ theme:
     - navigation.tabs # Menu horizontal en haut pour les grands écrans
     - search.suggest
     - search.highlight
+    - navigation.top
 
 plugins:
   - search
