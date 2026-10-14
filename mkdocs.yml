@@ -26,10 +26,12 @@ plugins:
           name: Français
           build: true
 
-# Définition du menu (la vue livre)
-# TRÈS IMPORTANT : Utilisez le nom générique .md (sans l'extension de langue)
-# Le plugin i18n associera automatiquement le bon fichier selon la langue.
 nav:
-  - Accueil: index.md
-  - Guide d'utilisation:
-    - Premier chapitre: GSIbook-test-BASE.md
+  - Home: index.md
+  - Guide:
+    - BASE: GSIbook-test-BASE.md
+    - CEEOL: GSIbook-test-CEEOL.md
+    - CORE: GSIbook-test-CORE.md
+    - Crossref: GSIbook-test-Crossref.md
+    - Datacite: GSIbook-test-Datacite.md
+    
