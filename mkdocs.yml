@@ -4,6 +4,7 @@ site_url: https://agCleo.github.io/GSIbook-test/
 
 theme:
   name: material
+  custom_dir: overrides
   language: en # Default language for interface
   logo: assets/EDCH_IconColourPos.png
   favicon: assets/EDCH_IconColourPos.png
