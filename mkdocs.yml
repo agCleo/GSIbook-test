@@ -5,6 +5,7 @@ site_url: https://agCleo.github.io/GSIbook-test/
 theme:
   name: material
   language: en # Langue par défaut de l'interface graphique
+  logo: assets/EDCH-logo.png
   palette:
     primary: indigo
     accent: indigo
