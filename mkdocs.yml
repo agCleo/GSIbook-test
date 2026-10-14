@@ -4,20 +4,20 @@ site_url: https://agCleo.github.io/GSIbook-test/
 
 theme:
   name: material
-  language: en # Langue par défaut de l'interface graphique
-  logo: assets/EDCH-logo.png
-  favicon: assets/EDCH-logo.png
+  language: en # Default language for interface
+  logo: assets/EDCH_IconColourPos.png
+  favicon: assets/EDCH_IconColourPos.png
   palette:
     primary: indigo
-    accent: indigo
+    accent: deep orange
   features:
-    - navigation.tabs # Menu horizontal en haut pour les grands écrans
+    - navigation.tabs # Horizontal menu at the top
     - search.suggest
     - search.highlight
-    - navigation.top
+    - navigation.top # Back to the top button
 
 markdown_extensions:
-  - pymdownx.magiclink
+  - pymdownx.magiclink # Automatically transforms URLs in hyperlinks
 
 plugins:
   - search
@@ -32,7 +32,7 @@ plugins:
           name: Français
           build: true
 
-nav:
+nav: # Contains file names without the language extension processed by i18n plugin
   - Home: index.md
   - Guide:
     - BASE: GSIbook-test-BASE.md
