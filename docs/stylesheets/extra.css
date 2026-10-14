@@ -6,8 +6,13 @@
   display: flex;
 }
 
-.logo-block img{
+.edch-logo {
   max-width: 100px;
+  padding: 1rem;
+}
+
+.oe-logo {
+  max-width: 150px;
   padding: 1rem;
 }
 
