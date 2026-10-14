@@ -16,6 +16,9 @@ theme:
     - search.highlight
     - navigation.top
 
+markdown_extensions:
+  - pymdownx.magiclink
+
 plugins:
   - search
   - i18n:
