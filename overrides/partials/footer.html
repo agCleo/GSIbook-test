@@ -1,1 +1,19 @@
-
+<div class="md-copyright">
+<div style="display: flex; justify-content: space-between; align-items: center">
+  <div>Aligned to left</div>
+  <div>Aligned to right</div>
+</div>
+    {% if config.copyright %}
+    <div class="md-copyright__highlight">
+        {{ config.copyright }}
+    </div>
+    {% endif %}
+    {% if not config.extra.generator == false %}
+    Made with
+    <span class="twemoji heart">
+        {% include ".icons/octicons/heart-fill-24.svg" %}
+    </span> by
+    <a href="https://github.com/orgs/rare-freertr/people" target="_blank" rel="noopener">
+        RARE contributors</a> and <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
+    {% endif %}
+</div>
