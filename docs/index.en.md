@@ -28,6 +28,7 @@ The term "index" was chosen as the broader term and can therefore correspond to 
 Each index documentation corresponds to one specific file or webpage.
 
 Each index documentation follows the same structure:
+
 - Introduction
   
 - Service Description
