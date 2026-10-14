@@ -34,7 +34,7 @@ plugins:
 
 nav: # Contains file names without the language extension processed by i18n plugin
   - Home: index.md
-  - Guide:
+  - Index:
     - BASE: GSIbook-test-BASE.md
     - CEEOL: GSIbook-test-CEEOL.md
     - CORE: GSIbook-test-CORE.md
