@@ -39,9 +39,14 @@ plugins:
 nav: # Contains file names without the language extension processed by i18n plugin
   - Home: index.md
   - Index:
-    - BASE: GSIbook-test-BASE.md
-    - CEEOL: GSIbook-test-CEEOL.md
-    - CORE: GSIbook-test-CORE.md
-    - Crossref: GSIbook-test-Crossref.md
-    - Datacite: GSIbook-test-Datacite.md
+    - BASE: GuideScholIndex_BASE.md
+    - CEEOL: GuideScholIndex_CEEOL.md
+    - CORE: GuideScholIndex_CORE.md
+    - Crossref: GuideScholIndex_Crossref.md
+    - Datacite: GuideScholIndex_Datacite.md
+    - Dimensions: GuideScholIndex_Dimensions.md
+    - DOAJ: GuideScholIndex_DOAJ.md
+    - EBSCOHost: GuideScholIndex_EBSCOHost.md
+  - Reference:
+    - Template: GuideScholIndex_template_v4.md
     
