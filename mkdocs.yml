@@ -47,4 +47,6 @@ nav: # Contains file names without the language extension processed by i18n plug
     - Dimensions: GuideScholIndex_Dimensions.md
     - DOAJ: GuideScholIndex_DOAJ.md
     - EBSCOHost: GuideScholIndex_EBSCOHost.md
+  - Reference:
+    - Template: GuideScholIndex_template_v4.md
     
