@@ -1,6 +1,6 @@
 # BASE
 
-Indexe les métadonnées de toutes sortes de ressources scientifiquement pertinentes (revues, entrepôts institutionnels, collections numériques, etc.) qui disposent d'une interface OAI et utilisent l'OAI-PMH pour fournir leur contenu.
+BASE indexe les métadonnées de toutes sortes de ressources scientifiquement pertinentes (revues, entrepôts institutionnels, collections numériques, etc.) qui disposent d'une interface OAI et utilisent l'OAI-PMH pour fournir leur contenu.
 
 
 ## DESCRIPTION DE L'INDEX
