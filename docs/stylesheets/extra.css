@@ -11,18 +11,23 @@ thead{
 }
 
 .edch-block img{
-  max-width: 130px;
+  max-width: 140px;
   padding: 1rem;
 }
 
+.oe-block{
+  margin-top: 2.6rem;
+}
+
 .oe-block img{
-  max-width: 150px;
-  padding-top: 2.2rem;
+  max-width: 140px;
+  padding: .2rem;
+  background-color: white;
 }
 
 .desc-block{
-  padding-left: 1rem;
+  margin-left: 1rem;
   font-size: .7rem;
-  padding-top: 1.8rem;
+  margin-top: 3.1rem;
 }
 
