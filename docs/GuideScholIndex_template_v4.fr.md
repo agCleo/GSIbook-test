@@ -1,5 +1,6 @@
-# template_v4
+# Contenu du template
 
+## INTRODUCTION
 Une brève description en 3 ou 4 lignes de l'index, de ses principales caractéristiques et fonctionnalités
 
 
