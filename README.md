@@ -1,5 +1,5 @@
 # Guide to Scholarly Indexes
-This repository contains the files of the [Guide to Scholarly Indexes](https://agcleo.github.io/GSIbook-test/), a documentation about indexes listing scholarly publications.
+This repository contains the files of the [Guide to Scholarly Indexes](https://agcleo.github.io/GuideScholIndex/), a documentation about indexes listing scholarly publications.
 
 The Guide to Scholarly Indexes is a service of the [European Diamond Capacity Hub](https://edch.eu/) (EDCH) and is maintained by [Aix-Marseille University](https://www.univ-amu.fr/) / [OpenEdition](https://www.openedition.org/?lang=en). 
 
