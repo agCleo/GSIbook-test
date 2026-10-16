@@ -1,5 +1,6 @@
-# template_v4
+# Template content
 
+## INTRODUCTION
 A brief description in 3 or 4 lines of the index, its main characteristics and features
 
 
