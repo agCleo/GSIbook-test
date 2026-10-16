@@ -29,7 +29,7 @@ Pour les besoins de ce Guide, l'équipe-projet a établi la typologie suivante :
 ## Comment lire le Guide ?
 Chaque documentation d'index correspond à un fichier ou page web spécifique.
 
-Chaque documentation suit un template unique qui est décrit à l'onglet [Reference](https://agcleo.github.io/GuideScholIndex/GuideScholIndex_template_v4/) de ce site.
+Chaque documentation suit un template unique qui est décrit à l'onglet "Reference" dans le menu de ce site.
 
 Le template suit cette structure :
 
