@@ -1,76 +1,74 @@
 # Guide des index académiques
 
 ## À propos 
-Le Guide des index académiques est un service du [European Diamond Capacity Hub](https://edch.eu/) qui fournit un catalogue de documentations à propos des services qui référencent des publications scientifiques. Il doit permettre aux éditeurs de sélectionner le service approprié pour le référencement de leurs publications, ainsi que de comprendre les spécifications qu'ils devront respecter.
+Le Guide des index académiques est un service du [European Diamond Capacity Hub](https://edch.eu/) qui fournit un catalogue de documentations à propos des services qui référencent des publications scientifiques. Il doit permettre aux éditeurs de sélectionner le service approprié pour le référencement de leurs publications, ainsi que de comprendre les critères qu'ils devront respecter pour y apparaître.
 
 Le European Diamond Capacity Hub vise à soutenir les éditeurs qui suivent le modèle de l'[Accès Ouvert Diamant](https://edch.eu/diamond-open-access). Le Guide des index académiques est l'un des aspects de ce soutien.
 
 ## Que contient le Guide ?
 Le Guide des index académiques contient des informations détaillées, bien que non exhaustives, au sujet des principaux services qui référencent des publications scientifiques.
 
-Les index listés ici correspondent aussi bien aux index les plus utilisés par n'importe quel type d'éditeur, qu'aux index les plus utiles pour les éditeurs suivant le modèle de l'Accès Ouvert Diamant. Compte tenu de leur importance croissante dans de nombreux processus d'agrégation, les agences d'enregistrement d'identifiants pérennes (ex. DOI) ont également été listées, ne serait-ce qu'à titre d'information.
-
 Le terme "index" a été choisi comme terme générique, mais peut concrètement renvoyer à une grande variété typologique : entrepôts, répertoires, agrégateurs, etc. Le Guide devrait précisément faciliter l'identification et la compréhension de ces différences. 
+
+Les index listés ici correspondent aussi bien aux index les plus utilisés par n'importe quel type d'éditeur, qu'aux index les plus utiles pour les éditeurs suivant le modèle de l'Accès Ouvert Diamant. Compte tenu de leur importance croissante dans de nombreux processus d'agrégation, les agences d'enregistrement d'identifiants pérennes (ex. DOI) ont également été listées, ne serait-ce qu'à titre d'information.
 
 Pour les besoins de ce Guide, l'équipe-projet a établi la typologie suivante :
 
 - Agrégateur automatisé avec soumission (ex. BASE, GoTriple, OpenAIRE)
   
-- Agrégateur entièrement automatisé (ex. CORE, Gscholar, OpenAlex, Semantic scholar)
+- Agrégateur entièrement automatisé (ex. CORE, Google Scholar, OpenAlex, Semantic scholar)
   
-- Agence d'enregistrement d'identifiants pérennes (ex. Crossref, Datacite)
-
 - Index bibliographique avec sélection (ex. DOAJ, Ebsco Host, ERIH PLUS, Pubmed)
   
 - Index bibliographique et bibliométrique avec sélection (ex. Scopus, Web Of Science)
   
 - Index bibliographique avec sélection et texte intégral (ex. CEEOL)
 
-## How to read the Guide?
-Each index documentation corresponds to one specific file or webpage.
+- Agence d'enregistrement d'identifiants pérennes (ex. Crossref, Datacite)
 
-Each index documentation follows the same structure:
+## Comment lire le Guide ?
+Chaque documentation d'index correspond à un fichier ou page web spécifique.
 
-- Introduction
-  
-- Service Description
-  
-- Service Provision
-  
-- Inclusion process
-  
-- Minimum Requirements
-  
-- Additional Criteria
-  
-- Information Sources
- 
-The first two sections "Introduction" and "Service Description" give a concise view of the global aspects of the index. It concerns administration and typology aspects.
+Chaque documentation suit un template unique qui est décrit à l'onglet "Reference" dans le menu de ce site.
 
-The second section "Service Provision" explains which and how journal's information is displayed on the index. It describes the data selection and management. It also indicates, when available, some additional services of the index besides the indexing.
+Le template suit cette structure :
 
-The sections "Inclusion process", "Minimum Requirements" and "Additional Criteria" expose the requirements and selection criteria of the index. While some criteria will require a deeper look into the index own documentation, the Guide intends to give sufficient information to evaluate the feasibility for a given journal to meet the requirements.
+- DESCRIPTION DE L'INDEX
 
-The last section "Information Sources" gives links to the main sources of information used to build the documentation.
+- SERVICE FOURNI
 
-## Spreadsheet versions
+- PROCESSUS D'INCLUSION
 
-The Guide to Scholarly Indexes also exists as a public spreadsheet:
+- CONDITIONS MINIMALES
 
-- English version: https://docs.google.com/spreadsheets/d/11fajdAKrVO7XrRreSLAbj1z4M09kODsNq2t4L22Ci5c/edit?usp=drive_link
+- CRITÈRES ADDITIONNELS
 
-- French version: https://docs.google.com/spreadsheets/d/1XqSn5pyssrnMcPkUAyF1Tu2LShjanS5NS23wFEjZ-CE/edit?usp=drive_link
+- SOURCES DES INFORMATIONS
 
-## Additional information
+Les deux premières sections "Introduction" et "Description de l'index" donnent un aperçu concis des aspects généraux de l'index. Il s'agit en particulier d'aspects administratifs et typologiques.
 
-CRAFT-OA deliverable version 1 describing the designing of the Guide: [Zenodo file](https://doi.org/10.5281/zenodo.12634606).
+La deuxième section "Service fourni" explique quelles informations concernant les publications sont affichées par l'index. La section décrit la sélection et la gestion des données. Elle indique aussi, quand ils existent, les services additionnels fourni par l'index en plus du référencement.
 
-Links to the Guide are integrated in the DISCO OJS plugin developed for CRAFT-OA by the [Masaryk University](https://www.muni.cz/en): https://github.com/munipress/disco 
+Les trois sections suivantes, "Processus d'inclusion", "Conditions minimales" et "Critères additionnels", présentent les critères de sélection et d'inclusion de l'index. Bien que certains critères réclament une lecture plus approfondie de la documentation propre de l'index, le Guide entend donner suffisamment d'informations pour évaluer la possibilité de répondre à ces critères.
 
-## License and Credits
+La dernière section "Sources des informations" fournit des liens vers les principales sources utilisées pour établir cette documentation. Certaines informations sont toutefois issues de l'expertise de la communauté des services d'information représentés dans l'EDCH.
 
-This content is available under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) license.
+## Versions tableur
 
-The Guide to Scholarly Indexes has been established within the [CRAFT-OA](https://www.craft-oa.eu/) Horizon Europe project, a building project of the [European Diamond Capacity Hub](https://edch.eu/).
+Le Guide des index académiques existe également en format tableur publiquement accessible :
 
-It is maintained by [OpenEdition](https://www.openedition.org/?lang=en), a French public infrastructure supporting open scholarly communication in the Social Sciences and Humanities.
+- [Version en anglais](https://docs.google.com/spreadsheets/d/11fajdAKrVO7XrRreSLAbj1z4M09kODsNq2t4L22Ci5c/edit?usp=drive_link)
+
+- [Version en français](https://docs.google.com/spreadsheets/d/1XqSn5pyssrnMcPkUAyF1Tu2LShjanS5NS23wFEjZ-CE/edit?usp=drive_link)
+
+## Informations supplémentaires
+
+Livrable du projet CRAFT-OA décrivant la conception du Guide (v1) : [Zenodo file](https://doi.org/10.5281/zenodo.12634606).
+
+## Licence et responsabilité
+
+The contenu est disponible sous licence [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
+
+Le Guide des index académiques a été établi dans le cadre du projet Horizon Europe [CRAFT-OA](https://www.craft-oa.eu/), l'un des projets à l'origine du [European Diamond Capacity Hub](https://edch.eu/).
+
+Il est maintenu par [OpenEdition](https://www.openedition.org/?lang=fr), une infrastructure publique française soutenant la communication scientifique ouverte dans les Sciences Humaines et Sociales.
