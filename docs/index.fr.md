@@ -67,7 +67,7 @@ Livrable du projet CRAFT-OA décrivant la conception du Guide (v1) : [Zenodo fil
 
 ## Licence et responsabilité
 
-The contenu est disponible sous licence [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
+Le contenu est disponible sous licence [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
 
 Le Guide des index académiques a été établi dans le cadre du projet Horizon Europe [CRAFT-OA](https://www.craft-oa.eu/), l'un des projets à l'origine du [European Diamond Capacity Hub](https://edch.eu/).
 
