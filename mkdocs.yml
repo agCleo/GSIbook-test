@@ -36,6 +36,15 @@ plugins:
           name: Français
           build: true
 
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/eudch/
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<arnaud.gingold@openedition.org>
+
+copyright: Available under licence CC-BY 4.0
+
 nav: # Contains file names without the language extension processed by i18n plugin
   - Home: index.md
   - Index:
@@ -44,6 +53,7 @@ nav: # Contains file names without the language extension processed by i18n plug
     - CORE: GuideScholIndex_CORE.md
     - Crossref: GuideScholIndex_Crossref.md
     - Datacite: GuideScholIndex_Datacite.md
+    - DDH: GuideScholIndex_DDH.md
     - Dimensions: GuideScholIndex_Dimensions.md
     - DOAJ: GuideScholIndex_DOAJ.md
     - EBSCOHost: GuideScholIndex_EBSCOHost.md
