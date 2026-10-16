@@ -3,7 +3,7 @@ This repository contains the files of the [Guide to Scholarly Indexes](https://a
 
 The Guide to Scholarly Indexes is a service of the [European Diamond Capacity Hub](https://edch.eu/) (EDCH) and is maintained by [Aix-Marseille University](https://www.univ-amu.fr/) / [OpenEdition](https://www.openedition.org/?lang=en). 
 
-It is made available as a static website in English and French through Material fr MkDocs.
+It is made available as a static website in English and French through [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
 This EDCH service was developed collectively within the Horizon Europe [CRAFT-OA](https://www.craft-oa.eu/) project, a former [OPERAS RI](https://operas-eu.org/) project coordinated by the [University of Göttigen](https://www.uni-goettingen.de/en/1.html).
 
