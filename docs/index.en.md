@@ -3,45 +3,49 @@
 ## About 
 The Guide to Scholarly Indexes is a service of the [European Diamond Capacity Hub](https://edch.eu/) providing a catalog of documentation about services indexing scholarly publications. It is meant to help publishers selecting the appropriate index or aggregator for their publications, as well as understanding the requirements they will have to meet.
 
-The European Diamond Capacity Hub aims at supporting the publishers and authors following the [Diamond Open Access model](https://edch.eu/diamond-open-access). The Guide to Scholarly Indexes is one aspect of such support.   
+The European Diamond Capacity Hub aims at supporting the publishers and publishing services following the [Diamond Open Access model](https://edch.eu/diamond-open-access). The Guide to Scholarly Indexes is one aspect of such support.   
 
 ## What contains the Guide?
 The Guide contains detailed, although not exhaustive, information about the main services indexing academic publications. 
 
-The indexes listed here correspond to the indexes either most used by any type of publisher, or most useful for Diamond Open Access journals. Given their increasing importance in various aggregation processes, PIDs registration agencies were also listed, be it only as an important piece of information.
+The term "index" was chosen as the broader term and can therefore correspond to a variety of service types: repositories, aggregators, thematic indexes, etc. The documentation should help to identify and understand these differences. 
 
-The term "index" was chosen as the broader term and can therefore correspond to a variety of service types: repositories, aggregators, thematic indexes, etc. The documentation should help to identify and understand these differences. For the purpose of this guide, the project team established the following typology:
+The indexes listed here correspond to the indexes either most used by any type of publisher, or most useful for Diamond Open Access journals. Given their increasing importance in various aggregation processes, Persistent Identifiers (PIDs, such as DOI) registration agencies were also listed, be it only as an important piece of information.
+
+For the purpose of this guide, the project team established the following typology:
 
 - Automated aggregator with submission (e.g., BASE, GoTriple, OpenAIRE)
   
 - Fully automated aggregator (e.g., CORE, Gscholar, OpenAlex, Semantic scholar)
-  
-- PIDs Registration agency (e.g., Crossref, Datacite)
-  
+
+- Selective bibliographic index (e.g., DOAJ, Ebsco Host, ERIH PLUS, Pubmed)
+    
 - Selective bibliographic and bibliometric indexes (e.g., Scopus, Web Of Science)
   
 - Selective bibliographic index and full text repository (e.g., as CEEOL)
-  
-- Selective bibliographic index (e.g., DOAJ, Ebsco Host, ERIH PLUS, Pubmed)
+
+- PIDs Registration agency (e.g., Crossref, Datacite)
 
 ## How to read the Guide?
 Each index documentation corresponds to one specific file or webpage.
 
-Each index documentation follows the same structure:
+Each index documentation follows one unique template that can be found under the "Reference" tab in the menu of this website.
 
-- Introduction
+The template has the following structure:
+
+- INTRODUCTION
   
-- Service Description
-  
-- Service Provision
-  
-- Inclusion process
-  
-- Minimum Requirements
-  
-- Additional Criteria
-  
-- Information Sources
+- SERVICE DESCRIPTION
+
+- SERVICE PROVISION
+
+- INCLUSION PROCESS
+
+- MINIMUM REQUIREMENTS
+
+- ADDITIONAL CRITERIA
+
+- INFORMATION SOURCES
  
 The first two sections "Introduction" and "Service Description" give a concise view of the global aspects of the index. It concerns administration and typology aspects.
 
@@ -55,20 +59,18 @@ The last section "Information Sources" gives links to the main sources of inform
 
 The Guide to Scholarly Indexes also exists as a public spreadsheet:
 
-- English version: https://docs.google.com/spreadsheets/d/11fajdAKrVO7XrRreSLAbj1z4M09kODsNq2t4L22Ci5c/edit?usp=drive_link
+- [English version](https://docs.google.com/spreadsheets/d/11fajdAKrVO7XrRreSLAbj1z4M09kODsNq2t4L22Ci5c/edit?usp=drive_link)
 
-- French version: https://docs.google.com/spreadsheets/d/1XqSn5pyssrnMcPkUAyF1Tu2LShjanS5NS23wFEjZ-CE/edit?usp=drive_link
+- [French version](https://docs.google.com/spreadsheets/d/1XqSn5pyssrnMcPkUAyF1Tu2LShjanS5NS23wFEjZ-CE/edit?usp=drive_link)
 
 ## Additional information
 
 CRAFT-OA deliverable version 1 describing the designing of the Guide: [Zenodo file](https://doi.org/10.5281/zenodo.12634606).
 
-Links to the Guide are integrated in the DISCO OJS plugin developed for CRAFT-OA by the [Masaryk University](https://www.muni.cz/en): https://github.com/munipress/disco 
-
 ## License and Credits
 
 This content is available under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) license.
 
-The Guide to Scholarly Indexes has been established within the [CRAFT-OA](https://www.craft-oa.eu/) Horizon Europe project, a building project of the [European Diamond Capacity Hub](https://edch.eu/).
+The Guide to Scholarly Indexes has been established within the [CRAFT-OA](https://www.craft-oa.eu/) Horizon Europe project, one of the building projects of the [European Diamond Capacity Hub](https://edch.eu/).
 
 It is maintained by [OpenEdition](https://www.openedition.org/?lang=en), a French public infrastructure supporting open scholarly communication in the Social Sciences and Humanities.
